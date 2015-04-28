@@ -1,2 +1,4 @@
 # google-homepage
+PROJECT: HTML & CSS
+
 My attempt at creating the Google Homepage
